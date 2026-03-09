@@ -1,6 +1,6 @@
 # 🔐 Cryptography Journey
 
-This repository documents my structured path to mastering cryptography through theory, implementation, and hands-on challenges.
+This repository documents my structured path of learning cryptography through theory, implementation, and hands-on challenges.
 
 ## 📚 Learning Sources
 - Cryptopals Crypto Challenges: practical cryptography through attack-based problems
