@@ -43,7 +43,7 @@ std::string bytesToBase64(const std::vector<unsigned char> &bytes){
         val = (val<<8)+c;
         valb+= 8;
         while(valb>=0){
-            result.push_back(BASE64_CHARS[(val>>valb) &   0x3F]);
+            result.push_back(BASE64_CHARS[(val>>valb) & 0x3F]);
             valb -= 6;
         }
     }
@@ -73,4 +73,6 @@ int main(){
 
     return 0; 
 }
+
+
 
