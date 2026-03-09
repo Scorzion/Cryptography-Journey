@@ -3,9 +3,9 @@
 This repository documents my structured path to mastering cryptography through theory, implementation, and hands-on challenges.
 
 ## 📚 Learning Sources
-- Cryptopals Crypto Challenges — practical cryptography through attack-based problems
-- Cryptography I (Dan Boneh, Stanford) — foundations of modern cryptography
-- Introduction to Cryptography (Christof Paar) — applied and implementation-focused cryptography
+- Cryptopals Crypto Challenges: practical cryptography through attack-based problems
+- Cryptography I (Dan Boneh, Stanford): foundations of modern cryptography
+- Introduction to Cryptography (Christof Paar): applied and implementation-focused cryptography
 
 ## 🎯 Objectives
 - Build strong theoretical foundations
@@ -14,10 +14,11 @@ This repository documents my structured path to mastering cryptography through t
 - Develop practical security skills
 
 ## 🛠️ Tech Stack
-- C++ — low-level implementations
-- Python — scripting & cryptanalysis
+- C++ (low-level implementations)
+- Python (scripting & cryptanalysis)
 
 ## 📂 Structure
+/books
 /cryptopals  
 /courses  
 /implementations  
